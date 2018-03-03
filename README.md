@@ -1,1 +1,3 @@
-# www-playground
+# README
+
+Bits of the web.
